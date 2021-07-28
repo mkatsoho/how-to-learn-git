@@ -8,9 +8,10 @@
 
 [GitLab 的基本使用](https://zhuanlan.zhihu.com/p/49819635)　推荐
 
-[vscode 编辑器初级教程](http://wiki.yhroot.com/pages/viewpage.action?pageId=23365273) 　推荐
+[vscode 编辑器初级教程](http://wiki.yhroot.com/pages/viewpage.action?pageId=23365273) 　推荐，内部
 
- gitlab 使用方法　推荐
+[gitlab 使用方法](http://wiki.yhroot.com/pages/viewpage.action?pageId=2294191)　推荐, 内部
+
 
 中级资料：
 
@@ -22,7 +23,9 @@
 
 https://zhuanlan.zhihu.com/p/341392116
 
+
 高级资料：
+
 [Pro Git 中文书](https://www.progit.cn/)　（专业书)　推荐
 
 
