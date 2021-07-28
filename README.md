@@ -1,5 +1,32 @@
 # how-to-learn-git
 
+## 一个写的文档
+
+初级资料：
+
+[Welcome to Learn Git Branching](https://learngitbranching.js.org/) (动画）推荐
+
+[GitLab 的基本使用](https://zhuanlan.zhihu.com/p/49819635)　推荐
+
+[vscode 编辑器初级教程](http://wiki.yhroot.com/pages/viewpage.action?pageId=23365273) 　推荐
+
+ gitlab 使用方法　推荐
+
+中级资料：
+
+[小姐姐用动画图解 Git 命令，这也太秀了吧？！](https://zhuanlan.zhihu.com/p/129854679)（动画）推荐
+
+[git基本操作，一篇文章就够了！](https://zhuanlan.zhihu.com/p/94172249)　推荐
+
+[我敢打赌！这是全网最全的 Git 分支开发规范手册](https://zhuanlan.zhihu.com/p/265716619)　推荐
+
+https://zhuanlan.zhihu.com/p/341392116
+
+高级资料：
+[Pro Git 中文书](https://www.progit.cn/)　（专业书)　推荐
+
+
+
 ## How
 
 可以从下面这个文章起步，建议读后续加粗的参考书目。
